@@ -1,0 +1,16 @@
+{
+  "name": "LuauBencher",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "LuauBencher" : {
+        "$path" : "src"
+      }
+    },
+
+    "ServerScriptService" : {
+      "$path" : "tests"
+    }
+  }
+}
